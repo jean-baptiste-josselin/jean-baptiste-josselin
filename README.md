@@ -1,17 +1,24 @@
 # Jean-Baptiste Josselin
 
-Je construis mon parcours vers une activité de consultant en intelligence artificielle, avec la formation GDU et des projets pratiques.
+**Intégrateur automatisation & no-code** · applications web et outils métier pour petites structures
 
-Mon objectif : comprendre les besoins métier et développer des solutions IA utiles, dont les résultats et les limites sont clairement expliqués.
+Je repère, dans les processus des TPE et PME, les tâches répétitives, les doubles saisies, les oublis et les étapes fragiles, puis je livre des solutions testées et documentées : applications web, workflows n8n, intégrations entre outils, et IA quand elle sert vraiment. Je dis aussi ce qu'elles ne font pas.
 
-## Mon parcours
+## Réalisations
 
-- Apprendre et consolider mes bases techniques.
-- Mettre les notions en pratique à travers des projets concrets.
-- Documenter mes réalisations et les enseignements tirés de chaque projet.
+| Projet | Ce qu'il résout | Outils |
+|---|---|---|
+| [Nova Services](https://jean-baptiste-josselin.github.io/portfolio-ia/projets/nova-services/) · [démo en ligne](https://nova-services-demandes.vercel.app) | Des demandes clients recopiées à la main, avec des oublis et des doublons | Next.js, TypeScript, Supabase, Vercel |
+| [Workflow n8n : prévenir le bon service](https://jean-baptiste-josselin.github.io/portfolio-ia/projets/n8n-reception-demandes/) | Des demandes enregistrées mais personne n'est prévenu | n8n (hébergé dans l'UE), IA Groq, Supabase |
 
-## Mes réalisations
+En cours : un agent IA conversationnel dans n8n, qui répond à partir des ressources de l'entreprise (RAG) et ne transmet une demande à un collaborateur qu'après accord du client.
 
-Les projets seront présentés dans mon [portfolio IA](https://github.com/jean-baptiste-josselin/portfolio-ia), au fil de leur réalisation.
+Toutes les fiches : [portfolio](https://jean-baptiste-josselin.github.io/portfolio-ia/). *Projets réalisés en formation, pour une entreprise fictive.*
 
-Ce profil évoluera avec mes apprentissages et mes projets.
+## Formation
+
+« Concevoir, développer et déployer des solutions IA-driven » (Global Digital University, 170 h, 2026).
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jean-baptiste-josselin-a5b268240/)
